@@ -20,9 +20,16 @@
 ---
 
 ## 📂 Projects
-- [Hostel Management System](link-to-repo) – Laravel project for managing room allocations  
-- [BloodCollector](link-to-repo) – A platform to connect blood donors & receivers with maps  
-- [MindPrep](link-to-repo) – Tracks points data like code in/out, date & time  
+
+- [**MyBikeStore**](https://github.com/majid-ali-dev/MyBikeStore)  
+  An online bike store management system where users can browse, add, and manage bikes.  
+
+- [**MindPrep**](https://github.com/majid-ali-dev/-MindPrep)  
+  A study preparation helper app designed to manage notes, tasks, and exam schedules.  
+
+- [**SbbuHostelManagementSystem**](https://github.com/majid-ali-dev/SbbuHostelManagementSystem)  
+  A Laravel-based hostel management system for student room allocations and admin control.  
+ 
 
 ---
 
