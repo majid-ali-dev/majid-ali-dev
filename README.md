@@ -54,6 +54,12 @@
 > 
 > A robust hostel management platform featuring student room allocation, administrative controls, and comprehensive reporting.
 
+
+🏥 VCNAHS Official Website
+
+Laravel-Based Educational Institution Website
+Official website for Visionary College of Nursing, Sukkur featuring informational pages, academic highlights, and mobile-friendly responsive design.
+
 ---
 
 ## 🎯 Current Focus
