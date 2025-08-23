@@ -56,18 +56,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majid-ali-dev&show_icons=true&theme=default&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majid-ali-dev&layout=compact&theme=default)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔍 Exploring advanced **Laravel features** and **PHP best practices**
