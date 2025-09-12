@@ -71,7 +71,12 @@
 
 ---
 
-
+## 📬 Let's Connect
+<div align="center">
+[![Gmail](https://img.shields.io/badge/Email-majidalishar2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majidalishar2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Majid_Ali-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ali-0a00a9231/)
+[![GitHub](https://img.shields.io/badge/GitHub-majid--ali--dev-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/majid-ali-dev)
+</div>
 
 ---
 
