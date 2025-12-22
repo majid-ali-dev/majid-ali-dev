@@ -13,8 +13,8 @@
 
 ## 🎯 About Me
 - 🎓 Bachelor of Information Technology, SBBU, SBA
-- 🌱 Expert **Laravel Framework**  **Php**  
-- 🚀 Passionate about **Web Development**, and **Security**  
+- 🌱 Expert **Laravel Framework** and **Php**  
+- 🚀 Passionate about **Web Development**
 - 🤝 Open to **collaborations** on innovative projects  
 - 📚 Lifelong learner with a growth mindset  
 
