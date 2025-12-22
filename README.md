@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**💻 Aspiring Software Developer** 
+**💻 Aspiring FullStack Web Developer** 
 
 [![GitHub followers](https://img.shields.io/github/followers/majid-ali-dev?style=social)](https://github.com/majid-ali-dev)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/majid-ali-0a00a9231/)
