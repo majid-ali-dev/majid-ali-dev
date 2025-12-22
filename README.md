@@ -12,9 +12,9 @@
 ---
 
 ## 🎯 About Me
-- 🎓 Student of **Information Technology** at SBBU SBA  
-- 🌱 Currently learning **Laravel Framework** and **Cybersecurity**  
-- 🚀 Passionate about **Web Development**, **AI**, and **Security**  
+- 🎓 Bachelor of Information Technology, SBBU, SBA
+- 🌱 Expert **Laravel Framework**  **Php**  
+- 🚀 Passionate about **Web Development**, and **Security**  
 - 🤝 Open to **collaborations** on innovative projects  
 - 📚 Lifelong learner with a growth mindset  
 
