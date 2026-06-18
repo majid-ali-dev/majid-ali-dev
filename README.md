@@ -1,6 +1,10 @@
 # Hi there, I'm Majid Ali 👋
 
 <div align="center">
+  <img src="https://github.com/majid-ali-dev.png" width="150" height="150" style="border-radius: 50%;" />
+</div>
+
+<div align="center">
 
 **💻 Full Stack Web Developer**
 
