@@ -1,10 +1,8 @@
+<div align="center">
+
+<img src="https://github.com/majid-ali-dev.png" width="130" style="border-radius: 50%; border: 3px solid #FF2D20;" />
+
 # Hi there, I'm Majid Ali 👋
-
-<div align="center">
-  <img src="https://github.com/majid-ali-dev.png" width="150" height="150" style="border-radius: 50%;" />
-</div>
-
-<div align="center">
 
 **💻 Full Stack Web Developer**
 
@@ -20,15 +18,15 @@
 - 🎓 Bachelor of Information Technology, SBBU, SBA
 - 🌱 Expert in **Laravel**, **PHP**, **ReactJS** & **REST APIs**
 - 🚀 Passionate about **Full Stack Web Development**
+- 🎂 **1 Year of Coding Journey Completed!** 🎉
 - 🤝 Open to **collaborations** on innovative projects
 - 📚 Lifelong learner with a growth mindset
-- 🎂 **1 Year of coding journey completed!** 🎉
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### ⚙️ Languages & Frameworks
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -75,10 +73,10 @@
 
 ## 🎯 Current Focus
 
-- Building **Full Stack Apps** with **ReactJS + Laravel REST API**
-- Mastering **Laravel & PHP best practices**
-- Learning **Cybersecurity & Ethical Hacking**
-- Contributing to **open-source projects**
+- 🔥 Building **Full Stack Apps** with **ReactJS + Laravel REST API**
+- 📖 Mastering **Laravel & PHP best practices**
+- 🔐 Learning **Cybersecurity & Ethical Hacking**
+- 🌍 Contributing to **open-source projects**
 
 ---
 
