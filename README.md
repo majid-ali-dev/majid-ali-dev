@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/majid-ali-dev.png" width="120" height="120" style="border-radius: 50%;" />
+<a href="https://github.com/majid-ali-dev">
+  <img src="https://github.com/majid-ali-dev.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #FF2D20;" />
+</a>
 
 <h1>Hi there, I'm Majid Ali 👋</h1>
 
 <b>💻 Full Stack Web Developer</b>
+
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/majid-ali-dev?style=social)](https://github.com/majid-ali-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/majid-ali-0a00a9231/)
