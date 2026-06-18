@@ -12,10 +12,9 @@
 ---
 
 ## 🎯 About Me
-
-- 🎓 Bachelor of Information Technology, SBBU, SBA  
-- 🌱 Full Stack Developer (Laravel + ReactJS + REST APIs)  
-- 🚀 Passionate about building modern web applications  
+- 🎓 Bachelor of Information Technology, SBBU, SBA
+- 🌱 Expert **Laravel Framework** and **Php**  
+- 🚀 Passionate about **Web Development**
 - 🤝 Open to **collaborations** on innovative projects  
 - 📚 Lifelong learner with a growth mindset  
 
@@ -24,27 +23,17 @@
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Frontend
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & APIs
-
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
-![Axios](https://img.shields.io/badge/Axios-5A29E6?style=for-the-badge&logo=axios&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ### Database & Tools
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -69,12 +58,10 @@
 ---
 
 ## 🎯 Current Focus
-
-- Building modern **Full Stack applications (Laravel + ReactJS)**  
-- Working with **REST APIs, Axios & Postman testing**  
-- Improving backend architecture & frontend UI skills  
+- Mastering **Laravel & PHP best practices**  
 - Learning **Cybersecurity & Ethical Hacking**  
-- Contributing to **open-source projects**
+- Building **full-stack applications**  
+- Contributing to **open-source projects**  
 
 ---
 
@@ -83,7 +70,6 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-majidalishar2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majidalishar2@gmail.com)  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Majid_Ali-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ali-0a00a9231/)  
 
 </div>
