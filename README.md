@@ -2,9 +2,10 @@
 
 <div align="center">
 
-**💻 Full Stack Web Developer** 
+**💻 Full Stack Web Developer (Laravel | ReactJS | REST APIs)**  
 
 [![GitHub followers](https://img.shields.io/github/followers/majid-ali-dev?style=social)](https://github.com/majid-ali-dev)  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/majid-ali-0a00a9231/)
 
 </div>
@@ -13,11 +14,11 @@
 
 ## 🎯 About Me
 
-- 🎓 Bachelor of Information Technology, SBBU, SBA
-- 🌱 **Expert** in **Laravel Framework**, **PHP**, and **ReactJS**
-- 🚀 Passionate about building modern **Full-Stack Web Applications**
-- 🤝 Open to **collaborations** on innovative projects
-- 📚 Lifelong learner with a growth mindset
+- 🎓 Bachelor of Information Technology, SBBU, SBA  
+- 🌱 Full Stack Developer (Laravel + ReactJS + REST APIs)  
+- 🚀 Passionate about building modern web applications  
+- 🤝 Open to **collaborations** on innovative projects  
+- 📚 Lifelong learner with a growth mindset  
 
 ---
 
@@ -39,7 +40,7 @@
 
 ### Backend & APIs
 
-![REST APIs](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E6?style=for-the-badge&logo=axios&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -70,9 +71,10 @@
 
 ## 🎯 Current Focus
 
-- Building modern **Full-Stack applications** with **ReactJS + Laravel**
-- Mastering **React**, **API Integration** (Axios, REST), and **Postman**
-- Learning **Cybersecurity & Ethical Hacking**
+- Building modern **Full Stack applications (Laravel + ReactJS)**  
+- Working with **REST APIs, Axios & Postman testing**  
+- Improving backend architecture & frontend UI skills  
+- Learning **Cybersecurity & Ethical Hacking**  
 - Contributing to **open-source projects**
 
 ---
@@ -82,7 +84,8 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-majidalishar2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majidalishar2@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Majid_Ali-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ali-0a00a9231/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Majid_Ali-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ali-0a00a9231/)  
 
 </div>
 
