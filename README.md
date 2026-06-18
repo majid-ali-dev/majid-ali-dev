@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/majid-ali-dev">
-  <img src="https://github.com/majid-ali-dev.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #FF2D20;" />
+  <img src="https://github.com/majid-ali-dev.png?size=300" width="300" height="300" alt="Majid Ali" style="border-radius:50%" />
 </a>
 
 <h1>Hi there, I'm Majid Ali 👋</h1>
